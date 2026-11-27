@@ -1,0 +1,2 @@
+docker build -t meetponsiva/employee-sync-job:latest .
+docker push meetponsiva/employee-sync-job:latest
